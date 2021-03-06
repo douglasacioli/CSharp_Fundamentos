@@ -1,10 +1,10 @@
-﻿using System;
+using System;
 
-namespace CSharp_Fundamentos
+namespace CSharp_Fundamentos.variaveisETiposdeDados
 {
-    class Program
+    public class TipoDateTime
     {
-        static void Main(string[] args)
+        public void Datas()
         {
             var hoje = DateTime.Today; //Data 
             var agora = DateTime.Now; //Data e Hora
@@ -31,7 +31,6 @@ namespace CSharp_Fundamentos
             Console.WriteLine(data3.ToLongTimeString()); //representação extendida da Hora
             Console.WriteLine(data3.ToShortDateString()); //representação Curta da Hora
             Console.WriteLine(data3.ToShortTimeString()); //representação Curta da Hora
-
         }
     }
 }
