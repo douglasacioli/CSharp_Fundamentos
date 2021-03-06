@@ -6,9 +6,17 @@ namespace CSharp_Fundamentos
     {
         static void Main(string[] args)
         {   
-            Console.WriteLine("Digite seu nome: ");
-            var nome = Console.ReadLine();
-            Console.WriteLine("Olá, " +nome);
+            int idade;
+            decimal altura = 1,76;
+            string nome;
+
+            idade = 37;
+            nome = "Doug";
+            string email = "douglas.acioli@gmail.com";
+
+            Console.WriteLine($"nome: {nome}, idade: {idade}, altura: {altura}, email: {email}");
+
+
         }
     }
 }
