@@ -1,0 +1,16 @@
+C:\Users\Doug\Documents\estudo\TreinaWeb\CSharp_Fundamentos\bin\Debug\net5.0\CSharp_Fundamentos.exe
+C:\Users\Doug\Documents\estudo\TreinaWeb\CSharp_Fundamentos\bin\Debug\net5.0\CSharp_Fundamentos.deps.json
+C:\Users\Doug\Documents\estudo\TreinaWeb\CSharp_Fundamentos\bin\Debug\net5.0\CSharp_Fundamentos.runtimeconfig.json
+C:\Users\Doug\Documents\estudo\TreinaWeb\CSharp_Fundamentos\bin\Debug\net5.0\CSharp_Fundamentos.runtimeconfig.dev.json
+C:\Users\Doug\Documents\estudo\TreinaWeb\CSharp_Fundamentos\bin\Debug\net5.0\CSharp_Fundamentos.dll
+C:\Users\Doug\Documents\estudo\TreinaWeb\CSharp_Fundamentos\bin\Debug\net5.0\ref\CSharp_Fundamentos.dll
+C:\Users\Doug\Documents\estudo\TreinaWeb\CSharp_Fundamentos\bin\Debug\net5.0\CSharp_Fundamentos.pdb
+C:\Users\Doug\Documents\estudo\TreinaWeb\CSharp_Fundamentos\obj\Debug\net5.0\CSharp_Fundamentos.csprojAssemblyReference.cache
+C:\Users\Doug\Documents\estudo\TreinaWeb\CSharp_Fundamentos\obj\Debug\net5.0\CSharp_Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doug\Documents\estudo\TreinaWeb\CSharp_Fundamentos\obj\Debug\net5.0\CSharp_Fundamentos.AssemblyInfoInputs.cache
+C:\Users\Doug\Documents\estudo\TreinaWeb\CSharp_Fundamentos\obj\Debug\net5.0\CSharp_Fundamentos.AssemblyInfo.cs
+C:\Users\Doug\Documents\estudo\TreinaWeb\CSharp_Fundamentos\obj\Debug\net5.0\CSharp_Fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\Doug\Documents\estudo\TreinaWeb\CSharp_Fundamentos\obj\Debug\net5.0\CSharp_Fundamentos.dll
+C:\Users\Doug\Documents\estudo\TreinaWeb\CSharp_Fundamentos\obj\Debug\net5.0\ref\CSharp_Fundamentos.dll
+C:\Users\Doug\Documents\estudo\TreinaWeb\CSharp_Fundamentos\obj\Debug\net5.0\CSharp_Fundamentos.pdb
+C:\Users\Doug\Documents\estudo\TreinaWeb\CSharp_Fundamentos\obj\Debug\net5.0\CSharp_Fundamentos.genruntimeconfig.cache
