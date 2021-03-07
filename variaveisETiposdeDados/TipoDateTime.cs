@@ -29,7 +29,7 @@ namespace CSharp_Fundamentos.variaveisETiposdeDados
             //formatar datas
             Console.WriteLine(data3.ToLongDateString()); //representação extendida da Data
             Console.WriteLine(data3.ToLongTimeString()); //representação extendida da Hora
-            Console.WriteLine(data3.ToShortDateString()); //representação Curta da Hora
+            Console.WriteLine(data3.ToShortDateString()); //representação Curta da Data
             Console.WriteLine(data3.ToShortTimeString()); //representação Curta da Hora
         }
     }
