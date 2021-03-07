@@ -1,10 +1,10 @@
-﻿using System;
+using System;
 
-namespace CSharp_Fundamentos
+namespace CSharp_Fundamentos.variaveisETiposdeDados
 {
-    class Program
+    public class Arrays
     {
-        static void Main(string[] args)
+        public void TiposdeDeclaracoes()
         {
             int [] numeros = new int [4]; //DECLARANDO ARRAY
 
@@ -26,10 +26,9 @@ namespace CSharp_Fundamentos
 
             string [] paises = {"Brasil","Alemanha", "Argentina"}; //NOVO TIPO DE DECLARAÇÃO (SEM A NECESSIDADE DO NEW)
             Console.WriteLine(paises[0]);
-            var cidades = new [] {"São Paulo", "Florianópolis", "Curitiba"};
+            var cidades = new [] {"São Paulo", "Florianópolis", "Curitiba"}; //USANDO INFERENCIA DE TIPO, NESSE CASO TEMOS QUE USAR O NEW 
             Console.WriteLine(cidades[0]);
 
-      
         }
     }
 }
